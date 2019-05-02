@@ -1,2 +1,2 @@
 # Python_test
-exc
+- 这是用来存放个人的练习
